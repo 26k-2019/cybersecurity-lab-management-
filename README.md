@@ -4,8 +4,8 @@ C program for managing basic cybersecurity laboratory information
 
 ## Student Information
 
-- Student Name: Your Name
-- Student ID: Your Student ID
+- Student Name: MANAL FATIMA
+- Student ID: 26K-2019
 
 ## Project Description
 
